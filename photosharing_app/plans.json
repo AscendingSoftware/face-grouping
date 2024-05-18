@@ -1,0 +1,44 @@
+[
+    {
+        "plan_id": 1,
+        "plan_name": "Basic",
+        "description": "Basic plan with limited features",
+        "price": 9.99,
+        "max_admins": 1,
+        "max_users": 10,
+        "expiration_date": "2024-12-31",
+        "max_events": 100,
+        "creation_date": "2024-9-31",
+        "last_updated_date" : "2024-9-31",
+        "max_storage": 100 ,
+        "validity_period": 30
+    },
+    { 
+        "plan_id": 2,
+        "plan_name": "Premium",
+        "description": "Premium plan with more features",
+        "price": 19.99,
+        "max_admins": 5,
+        "max_users": 50,
+        "expiration_date": "2024-12-31",
+        "max_events": 500,
+        "creation_date": "2024-9-31",
+        "last_updated_date" : "2024-9-31",
+        "max_storage": 500,
+        "validity_period": 60
+    },
+    {
+        "plan_id": 3,
+        "plan_name": "Ultimate",
+        "description": "Ultimate plan with all features",
+        "price": 29.99,
+        "max_admins": 10,
+        "max_users": 100,
+        "expiration_date": "2024-12-31",
+        "max_events": 1000,
+        "creation_date": "2024-9-31",
+        "last_updated_date" : "2024-9-31",
+        "max_storage": 1000,
+        "validity_period": 90
+    }
+]
